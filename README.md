@@ -1,2 +1,1 @@
-# FYP
-Analytics of FAST alumni Network
+#Analytics for FAST alumni Network
